@@ -27,7 +27,7 @@ O primeiro passo no processo criativo é a concepção da ideia e a elaboração
 Após a edição e revisão serem concluídas, o conteúdo está pronto para ser finalizado e distribuído. A combinação do vídeo produzido pelo Vidnoz com o texto aprimorado no Microsoft Word resulta em um conteúdo multimídia de alta qualidade e grande impacto. Esse conteúdo pode então ser compartilhado em diversas plataformas online, como redes sociais, sites e canais de vídeo.
 Resumindo, o processo de criação de conteúdo com o uso de ferramentas de IA generativa e o Microsoft Office Word representa uma abordagem inovadora e eficiente para a produção de materiais digitais. Desde o planejamento inicial até a distribuição, essas ferramentas colaboram para facilitar e melhorar cada fase do processo criativo, culminando em um conteúdo que captura e inspira o público.
 
-[LINK PARA O VIDEO](https://share.vidnoz.com/aishare-OSs8GMbnzIYhsDGNyPpJxz5E17107679902620513)
+[LINK PARA O VIDEO](https://share.vidnoz.com/aivideo?id=7658353)
 
 ## 💭 Reflexão
 Este projeto representou uma oportunidade significativa de aprendizado e aprimoramento. Em síntese, o trabalho desenvolvido demonstrou como a fusão de tecnologia de ponta, criatividade e ética pode gerar conteúdo digital de elevada qualidade e grande relevância. Refletindo sobre o processo, identificamos lições e percepções importantes que servirão de orientação para futuras iniciativas.
