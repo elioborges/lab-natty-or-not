@@ -21,7 +21,7 @@ O primeiro passo no processo criativo é a concepção da ideia e a elaboração
 
 * **Etapa 3: Edição e Revisão**
 
-Após a criação do vídeo, é crucial revisar e aprimorar o conteúdo para assegurar sua qualidade e exatidão. O ChatGPT pode ser empregado mais uma vez para revisar o texto do vídeo, propondo edições e correções gramaticais. Ademais, o Microsoft Office Word é uma ferramenta indispensável para edição de textos, oferecendo funcionalidades avançadas para correção ortográfica, formatação e estruturação do conteúdo.
+  Após a criação do vídeo, é crucial revisar e aprimorar o conteúdo para assegurar sua qualidade e exatidão. O ChatGPT pode ser empregado mais uma vez para revisar o texto do vídeo, propondo edições e correções gramaticais. Ademais, o Microsoft Office Word é uma ferramenta indispensável para edição de textos, oferecendo funcionalidades avançadas para correção ortográfica, formatação e estruturação do conteúdo.
 
 ## 🚀 Resultados
 Após a edição e revisão serem concluídas, o conteúdo está pronto para ser finalizado e distribuído. A combinação do vídeo produzido pelo Vidnoz com o texto aprimorado no Microsoft Word resulta em um conteúdo multimídia de alta qualidade e grande impacto. Esse conteúdo pode então ser compartilhado em diversas plataformas online, como redes sociais, sites e canais de vídeo.
